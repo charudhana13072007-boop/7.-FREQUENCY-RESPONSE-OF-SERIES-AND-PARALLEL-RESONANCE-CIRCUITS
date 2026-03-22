@@ -25,19 +25,24 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1027" height="1600" alt="image" src="https://github.com/user-attachments/assets/b4ae2e6f-f626-4144-8e7b-c61a49113e7e" />
 
 
 
 **Model graph:**
 
+<img width="1051" height="1600" alt="image" src="https://github.com/user-attachments/assets/d118978e-3011-4ab7-9cc0-68d811fd7c9a" />
 
 
 
 **TABULATION:**
 
+<img width="1080" height="1366" alt="image" src="https://github.com/user-attachments/assets/5d18058f-b7c5-4eea-adbc-dd873309ab5f" />
+
 
 **Calculation:**
 
+<img width="1080" height="1569" alt="image" src="https://github.com/user-attachments/assets/8038311e-126c-4219-a58c-5c3162739727" />
 
 
 
@@ -52,11 +57,27 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
+**waveform**
+
+<img width="1080" height="520" alt="image" src="https://github.com/user-attachments/assets/3db45744-928b-4d4f-b82a-de7e2a92a78d" />
+
+
 **Mark split up:**
+
+<img width="1600" height="1017" alt="image" src="https://github.com/user-attachments/assets/86082425-93b6-455c-a5c2-ee4d23d6d419" />
+
 
 **RESULT:**
 
-Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
+thus the phenomenon of resonanace in rlc circuit was studied the following were determined using multisim simulator
+series RLC circuit:
+resonant frequency =1000
+Bandwidth=525.4
+Q factor=1.903
+Parallel RLC circuit:
+resonant frequency=1000
+Bandwidth=525.4
+Q factor=1.903
 
 
 
