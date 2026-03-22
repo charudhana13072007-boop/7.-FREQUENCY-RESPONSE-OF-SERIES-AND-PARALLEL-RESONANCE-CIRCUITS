@@ -1,3 +1,5 @@
+*K.CHARUMATHI
+
 # 7.FREQUENCY-RESPONSE-OF-SERIES-AND-PARALLEL-RESONANCE-CIRCUITS
 
 
@@ -25,18 +27,26 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1027" height="1600" alt="image" src="https://github.com/user-attachments/assets/8fb925e6-9f92-4352-a53e-142cba4ae6e2" />
 
 
 
 **Model graph:**
 
 
+<img width="1051" height="1600" alt="image" src="https://github.com/user-attachments/assets/c68867db-8b59-4bd8-8d73-37987cb6ecd2" />
 
 
 **TABULATION:**
 
+<img width="1080" height="1366" alt="image" src="https://github.com/user-attachments/assets/8c075deb-7657-47fb-9d41-0034c5c65491" />
+
+
 
 **Calculation:**
+
+
+<img width="1080" height="1569" alt="image" src="https://github.com/user-attachments/assets/c776335b-cd99-433f-993c-5b24a6b2d67c" />
 
 
 
@@ -53,6 +63,9 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+
+<img width="1600" height="1017" alt="image" src="https://github.com/user-attachments/assets/e461bfdb-c67e-4421-b7ac-39590ab975c2" />
+
 
 **RESULT:**
 
